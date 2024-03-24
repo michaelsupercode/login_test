@@ -19,6 +19,11 @@ header {
 width: 70vw;
 }
 
+nav img {
+  margin-left: 7em;
+  width: 10%;
+}
+
 nav {
   display: flex;
   justify-content: space-between;
