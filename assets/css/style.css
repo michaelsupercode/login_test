@@ -5,17 +5,17 @@
 }
 
 body {
-  min-height: 100vh;
   display: grid;
   place-items: center;
+  min-height: 100vh;
   background-color:rgb(255, 234, 209);
 }
 
 header {
   display: grid;
+  place-items: center;
   min-height: 20vh;
 width: 20%;
-  place-items: center;
 
 }
 
