@@ -11,6 +11,21 @@ body {
   background-color:rgb(255, 234, 209);
 }
 
+main {
+  display: flex;
+}
+
+#secret a {
+  text-transform: uppercase;
+  font-size: 1.5625em;
+  border: none;
+  border-radius: 10px;
+  padding: 0.5em 1.5em;
+  overflow: hidden;
+  position: relative;
+  top: 3em;
+}
+
 form {
   background-color:bisque;
   width: 80vw;
@@ -25,4 +40,7 @@ form {
   top: 5vh;
   height: 100vh;
   width: 85vw;
+  display: grid;
+  place-items: center;
+
 }
