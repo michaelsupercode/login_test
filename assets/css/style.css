@@ -11,8 +11,18 @@ body {
   background-color:rgb(255, 234, 209);
 }
 
-main {
-  display: flex;
+header {
+  display: grid;
+  min-height: 20vh;
+width: 20%;
+  place-items: center;
+
+}
+
+#section {
+  display: grid;
+  place-items: center;
+  width:70vw;
 }
 
 #secret a {
@@ -34,16 +44,16 @@ main {
   font-size: 1.75em;
 }
 
-form {
+/* form {
   background-color:bisque;
   width: 80vw;
   height: 80vh;
   margin: 5vh;
   text-align: center;
 
-}
+} */
 
-.blocked {
+/* .blocked {
   position: absolute;
   top: 5vh;
   height: 100vh;
@@ -51,4 +61,4 @@ form {
   display: grid;
   place-items: center;
 
-}
+} */
