@@ -16,7 +16,7 @@ header {
   /* display: grid; */
   /* place-items: center;
   min-height: 20vh; */
-width: 50%;
+width: 47%;
 }
 
 nav {
@@ -35,11 +35,11 @@ li {
 }
 
 li:nth-child(1) {
-  padding-right: 7em;
+  padding-right: 10em;
 }
 
 li:last-child {
-  padding-right: 7.6875em;
+  padding-right: 1.7em;
 }
 
 #section {
