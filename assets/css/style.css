@@ -60,11 +60,14 @@ li:last-child {
 }
 
 #secret {
+  display: grid;
+  place-items: center;
   margin-top: 10em;
 }
 
 #secret p {
-  font-size: 1.75em;
+  width: 60%;
+  font-size: .75em;
 }
 
 /* form {
