@@ -26,6 +26,14 @@ main {
   top: 3em;
 }
 
+#secret {
+  margin-top: 10em;
+}
+
+#secret p {
+  font-size: 1.75em;
+}
+
 form {
   background-color:bisque;
   width: 80vw;
