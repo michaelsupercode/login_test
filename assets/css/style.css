@@ -34,6 +34,14 @@ li {
   list-style: none;
 }
 
+li:nth-child(1) {
+  padding-right: 7em;
+}
+
+li:last-child {
+  padding-right: 7.6875em;
+}
+
 #section {
   display: grid;
   place-items: center;
