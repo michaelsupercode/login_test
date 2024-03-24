@@ -16,4 +16,12 @@ form {
   height: 80vh;
   margin: 5vh;
   text-align: center;
+
+}
+
+.blocked {
+  position: absolute;
+  top: 5vh;
+  height: 100vh;
+  width: 85vw;
 }
